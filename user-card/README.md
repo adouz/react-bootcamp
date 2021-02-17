@@ -14,7 +14,7 @@ in `index.js` file use `card` object and `ant design` [card component](https://a
 ## your end result should look like this:
 <img src="./user-card.png">
 
-## Notions
+## Reference
 - https://ant.design/docs/react/introduce
 - https://ant.design/components/card/
 - https://ant.design/components/avatar/

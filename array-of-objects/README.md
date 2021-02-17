@@ -1,4 +1,4 @@
-# List of users
+# Array of objects
 
 ## Instructions
 you have the following array of objects `smartPeople`:
