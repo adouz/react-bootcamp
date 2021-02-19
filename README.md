@@ -12,9 +12,12 @@ README.md: contains exercise instructions.
 
 every exercise falls into one or multiple categories of React main concepts or others that we thnik front-end developers should know!
 
+**please take your time of understanding every concept and how it works before writing the answer!**
+
 ## DOM
 - [adding-style]()
-- DOM Events
+- [event-handling]()
+- <s>DOM Events</s>
 - References
 - <s>style attribute</s>
 
@@ -31,9 +34,11 @@ every exercise falls into one or multiple categories of React main concepts or o
 ## Components/props
 - [function-component]()
 - [component-properties]()
-- Children
-- Transferring props
-- Property validation / default props
+- [children]()
+- [prop-types]()
+- <s>Children</s>
+- Transferring props(not required)
+- <s>Property validation / default props</s>
 
 ## Lifecycle
 - Mounting
@@ -72,3 +77,4 @@ every exercise falls into one or multiple categories of React main concepts or o
 - [ ] split the exercises to days
 - [ ] put exercises order
 - [ ] put solutions on answer folder or answer.js file
+- [ ] maybe have tests
