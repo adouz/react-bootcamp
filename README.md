@@ -45,7 +45,8 @@ Every exercise falls into one or multiple categories of react main concepts or o
 - Updating
 
 ## Hooks
-- State Hook
+- <s>State Hook</s>
+- [state]()
 - Effect hook
 - useContext
 - useRef
