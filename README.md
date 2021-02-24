@@ -10,7 +10,7 @@ Each exercise is a small react application containing the following files:
 index.js: represents the entry file for the entire exercise.
 README.md: contains exercise instructions.
 
-Every exercise falls into one or multiple categories of react main concepts or others that we think front-end developers should know!
+Every exercise falls into one or multiple categories of React.js main concepts or others that we think front-end developers should know!
 
 **Please take your time of understanding every concept and how it works before writing the answer!**
 
@@ -45,11 +45,13 @@ Every exercise falls into one or multiple categories of react main concepts or o
 - Updating
 
 ## Hooks
-- <s>State Hook</s>
 - [state]()
-- Effect hook
+- [side-effects]()
+- [ref]()
+- <s>State Hook</s>
+- <s>Effect hook</s>
+- <s>useRef</s>
 - useContext
-- useRef
 - memo hooks(not required)
 - useReducer(not required)
 - Building your own hooks(not required)
@@ -75,7 +77,7 @@ Every exercise falls into one or multiple categories of react main concepts or o
 
 ## TODO:
 - [x] have a list of all the concepts
-- [ ] split the exercises to days
+- [ ] split the exercises into days
 - [ ] put exercises order
 - [ ] put solutions on answer folder or answer.js file
 - [ ] maybe have tests
