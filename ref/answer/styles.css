@@ -1,0 +1,21 @@
+body {
+    background: #50a8c0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .box {
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    background-color: #222222;
+    box-shadow: 0 5px 40px rgba(0, 0, 0, 0.3);
+  }
+  
+  .box img {
+    width: 250px;
+    height: 250px;
+  }
+  
