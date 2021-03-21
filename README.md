@@ -17,8 +17,9 @@ Every exercise falls into one or multiple categories of React.js main concepts o
 ## DOM
 - [adding-style]()
 - [event-handling]()
+- [ref]()
 - <s>DOM Events</s>
-- References
+- <s>References</s>
 - <s>style attribute</s>
 
 ## JSX
