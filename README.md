@@ -24,6 +24,8 @@ Every exercise falls into one or multiple categories of React.js main concepts o
 - [adding-style](https://github.com/adouz/react-bootcamp/tree/main/adding-style)
 - [event-handling](https://github.com/adouz/react-bootcamp/tree/main/event-handling)
 - [ref](https://github.com/adouz/react-bootcamp/tree/main/ref)
+- [hello-world](https://github.com/adouz/react-bootcamp/tree/main/hello-world)
+- [page-layout](https://github.com/adouz/react-bootcamp/tree/main/page-layout)
 - <s>DOM Events</s>
 - <s>References</s>
 - <s>style attribute</s>
@@ -79,12 +81,8 @@ Every exercise falls into one or multiple categories of React.js main concepts o
 - reducers
 - Middleware
 
-## Other
-- [hello-world](https://github.com/adouz/react-bootcamp/tree/main/hello-world)
-- [page-layout](https://github.com/adouz/react-bootcamp/tree/main/page-layout)
-
 ## TODO:
-- [x] have a list of all the concepts
-- [ ] put exercises order
-- [ ] put solutions on answer folder or answer.js file
-- [ ] maybe have tests
+- [ ] have tests
+- [ ] finish all react conecpts
+- [ ] react router
+- [ ] redux
