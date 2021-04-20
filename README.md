@@ -82,7 +82,6 @@ Every exercise falls into one or multiple categories of React.js main concepts o
 - Middleware
 
 ## TODO:
-- [ ] have tests
 - [ ] finish all react conecpts
 - [ ] react router
 - [ ] redux
